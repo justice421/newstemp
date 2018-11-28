@@ -1,20 +1,22 @@
 .header {
 background-color: lightblue;
   height: 200px;
-  width: 80%;
+  width: 1000px;
   margin: 0 auto;
 }
 
 .content {
   background-color: orange;
   height: 600px;
-  width: 100%;
+  width: 1000px;
+  margin: 0 auto;
   margin-top: 10px;
 }
 
 .column {
   background-color: red;
   height: 600px;
-  width: 250px;
+  width: 300px;
   float: left;
+  margin-left: 0px 16.6px;
 }
